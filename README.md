@@ -12,3 +12,5 @@
 * [Taximeter Calculation](https://github.com/alierqul/Patika_JWBDP_Java_101/blob/main/src/com/patika/taximeter/TaxiMeterCalculation.java)
 
 * [Circle Area, circumference and alfa Area](https://github.com/alierqul/Patika_JWBDP_Java_101/blob/main/src/com/patika/circle/CircleAreaCalculation.java)
+
+* [Body Mass Index](https://github.com/alierqul/Patika_JWBDP_Java_101/blob/main/src/com/patika/bodymassindex/BodyMassIndexCalculation.java)
