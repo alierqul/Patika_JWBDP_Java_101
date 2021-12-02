@@ -22,7 +22,7 @@ public class KDVCalculation {
    */
   public static void main(String[] args) {
     final float KDV_RATE_18 = 0.18F;
-    final float KDV_RATE_8 = 0.8F;
+    final float KDV_RATE_8 = 0.08F;
     float kdvValue = 0F;
     Scanner scan = new Scanner(System.in);
     System.out.print("Para Değeri= ");
